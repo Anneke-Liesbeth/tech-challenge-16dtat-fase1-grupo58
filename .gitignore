@@ -1,0 +1,10 @@
+# Ignorar bases de dados pesadas
+data/*.csv
+data/*.zip
+data/*.xlsx
+
+# Ignorar arquivos temporários do Python e Jupyter Notebook
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
