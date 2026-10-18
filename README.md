@@ -13,3 +13,9 @@ Para garantir a organização, reprodutibilidade e a governança dos dados em di
 * **Gestão da Pasta `data/`**: Os arquivos `.csv` originais da Olist são baixados do Kaggle e armazenados localmente na pasta `data/` na raiz do projeto.
 
 * **Arquivo `.gitignore`**: Configurado para ignorar a pasta `data/` e arquivos temporários do Python, evitando o envio acidental de dados pesados para o GitHub.
+
+## Status Atual do Projeto
+- [x] Definição da Pergunta de Negócio: Oportunidades de expansão de receita e impacto do frete.
+- [x] Criação do ambiente virtual Python e instalação de bibliotecas (`pandas`, `numpy`, `seaborn`, `matplotlib`, `plotly`).
+- [x] Criação do caderno principal (`analise_crescimento_olist.ipynb`) aplicando os conceitos de Storytelling.
+- [x] Primeira carga de dados e validação da tabela Fato (`olist_orders_dataset.csv`).
