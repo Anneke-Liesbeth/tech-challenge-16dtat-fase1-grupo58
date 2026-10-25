@@ -45,7 +45,7 @@ Com a base limpa, calculei os indicadores globais da operação:
 - **Ticket Médio (Preço médio por item):** R$ 119,98
 - **Frete Médio por item:** R$ 19,95
 
-## 4. O Impacto do Frete e a Dor do Ticket Baixo
+## 4. O Impacto do Frete
 
 Com os indicadores globais mapeados (onde o frete médio representa 32,08% do valor da compra), decidi investigar como esse peso logístico se distribui entre os produtos. 
 
@@ -55,5 +55,3 @@ Utilizando o método estatístico de **Quartis**, dividi todo o portfólio de ve
 - **2º Quartil (R$ 39,90 a R$ 74,90):** O impacto cai para **30,09%**.
 - **3º Quartil (R$ 74,90 a R$ 134,17):** O impacto reduz para **20,03%**.
 - **4º Quartil (Acima de R$ 134,17):** O frete corresponte apenas a **12,33%** do valor da compra.
-
-**Conclusão:** Como o frete possui um custo mínimo "piso" na maioria das transportadoras, ele afeta desproporcionalmente os itens de baixo valor. A maior oportunidade de expansão de receita (e redução de abandono de carrinho) da Olist está em criar soluções logísticas específicas e parcerias de otimização de rotas focadas no portfólio de ticket baixo.
