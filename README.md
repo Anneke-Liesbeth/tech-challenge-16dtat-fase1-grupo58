@@ -11,6 +11,7 @@ A organização e reprodutibilidade do projeto seguem a estrutura:
 - **Repositório GitHub:** Versionamento de código (`.ipynb`) e documentação oficial.
 - **Gestão da Pasta `data/`:** Os arquivos de dados originais (`.csv`) foram isolados localmente e ignorados via `.gitignore` para não sobrecarregar o repositório em nuvem.
 - **Ferramentas e Bibliotecas:** `pandas`, `numpy`, `seaborn` e `matplotlib`.
+**Apoio de IA:** Google Gemini (Utilizado como parceiro de raciocínio / *thought partner* para revisão de código e estruturação do *data storytelling*).
 
 ## 3. Preparação e Limpeza de Dados
 Para o levantamento da receita, a base foi filtrada para considerar apenas os pedidos com o status "delivered" (entregue).
